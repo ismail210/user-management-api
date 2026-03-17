@@ -147,3 +147,32 @@ Feel free to fork this repository and submit a pull request.
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 📷 API Screenshots
+
+### 🔐 Register
+
+![Register](assets/screenshots/signUp.png)
+
+### 🔐 Login
+
+![Login](assets/screenshots/signIn.png)
+
+### 👤 Get All Users
+
+![Get Users](assets/screenshots/getAllUsers.png)
+
+### 👤 Get User by ID
+
+![Get User](assets/screenshots/getUserById.png)
+
+### ✏️ Update User
+
+![Update User](assets/screenshots/updateUser.png)
+
+### ❌ Delete User
+
+![Delete User](assets/screenshots/deleteUser.png)
+
+### Create User
+![Create User](assets/screenshots/createUser.png)
